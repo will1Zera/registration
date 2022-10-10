@@ -6,7 +6,7 @@
 <p align="center"> 
   3 sessões de cadastro de informações do usuário</p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58959372/194785842-53fe8a3b-61e1-4153-8bf5-c2e7524c0b4e.png" align="center" style="border-radius: 10px" width= "400px"/>
+  <img src="https://user-images.githubusercontent.com/58959372/194785842-53fe8a3b-61e1-4153-8bf5-c2e7524c0b4e.png" align="center" style="border-radius: 10px" width= "800px"/>
   <img src="https://user-images.githubusercontent.com/58959372/194785875-ef43bf89-d039-48b2-a14d-23536907690e.png" align="center" style="border-radius: 10px" width= "400px"/>
   <img src="https://user-images.githubusercontent.com/58959372/194785889-232916d9-b78b-4913-869d-39b36aecaf1e.png" align="center" style="border-radius: 10px" width= "400px"/>
 </p>
