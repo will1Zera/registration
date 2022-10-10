@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ### Descrição
-Esse projeto possui três sessões distintas, cada uma com campos para o usuário preencher. Támbem possui um menu no topo para poder navegar entre as sessões
+Esse projeto possui três sessões distintas, cada uma com campos para o usuário preencher. Também possui um menu no topo para poder navegar entre as sessões
 
 
 ### Objetivo
